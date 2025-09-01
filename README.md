@@ -1,8 +1,6 @@
 # 🎰 Solana Casino Platform 🚀
 A next-generation, fully decentralized casino platform built on Solana blockchain with enterprise-grade architecture, comprehensive testing, and production-ready infrastructure. Transform any Solana token into a fully-featured casino ecosystem with advanced gaming features, real-time analytics, and institutional-grade security.
 
-![Solana Casino Platform](https://raw.githubusercontent.com/AP3X-Dev/Solana-Casino/refs/heads/main/public/slots.png)
-
 ## 🆕 Latest Updates (v1.3.2)
 
 ### 🚀 Aggressive Dashboard Cleanup (v1.3.2)
@@ -201,7 +199,6 @@ npm run build
 
 - Documentation: [docs.solanacasino.com](https://docs.solanacasino.com)
 - Discord: [Join our server](https://discord.gg/solanacasino)
-- Twitter: [@SolanaCasino](https://twitter.com/solanacasino)
 - Email: support@solanacasino.com
 
 ## ⚠️ Responsible Gaming
@@ -229,5 +226,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by the AP3X
+Built with ❤️ by the Rust0xPro
 Last updated: May 2025
